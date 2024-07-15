@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<div align="center">
   
-<img src="../res/pic/logo/ic_launcher.webp" alt="Flix Logo">
+<img src="../res/pic/logo/256.png" alt="Flix Logo" width="128">
 
 <p style="font-size: 2em; font-weight: bold;">
     Flix 快传

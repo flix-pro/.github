@@ -2,9 +2,9 @@
   
 <img src="../res/pic/logo/256.png" alt="Flix Logo" width="128">
 
-<p style="font-size: 2em; font-weight: bold;">
+<h1>
     Flix 快传
-</p>
+</h1>
 
 像聊天一样传文件
 
